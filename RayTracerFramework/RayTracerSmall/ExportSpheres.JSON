@@ -1,0 +1,79 @@
+[
+  {
+    "minFrame": 1,
+    "maxFrame": 100,
+    "defaultCol": "#FF008000",
+    "keyframes": [
+      {
+        "TimelineLoc": 13,
+        "xPos": -2.7853136155022917,
+        "yPos": -0.056198910081747447,
+        "zPos": -0.056198910081747988,
+        "scale": 1.0,
+        "kColor": "#FF008000"
+      },
+      {
+        "TimelineLoc": 79,
+        "xPos": 2.8801631820499756,
+        "yPos": -0.056198910081747447,
+        "zPos": -0.056198910081747988,
+        "scale": 1.0,
+        "kColor": "#FF008000"
+      }
+    ]
+  },
+  {
+    "minFrame": 1,
+    "maxFrame": 100,
+    "defaultCol": "#FF00FFFF",
+    "keyframes": [
+      {
+        "TimelineLoc": 14,
+        "xPos": -3.10385857555669,
+        "yPos": -1.8358310626703007,
+        "zPos": 0.0,
+        "scale": 0.55977520435967254,
+        "kColor": "#FFFF0080"
+      },
+      {
+        "TimelineLoc": 96,
+        "xPos": 3.4217236104028528,
+        "yPos": -1.8358310626703007,
+        "zPos": 0.0,
+        "scale": 0.55977520435967254,
+        "kColor": "#FF00FFFF"
+      }
+    ]
+  },
+  {
+    "minFrame": 1,
+    "maxFrame": 100,
+    "defaultCol": "#FFFF0000",
+    "keyframes": [
+      {
+        "TimelineLoc": 3,
+        "xPos": 0.0,
+        "yPos": 2.128405994550409,
+        "zPos": 0.063351498637602421,
+        "scale": 0.21321525885558582,
+        "kColor": "#FFFF0000"
+      },
+      {
+        "TimelineLoc": 42,
+        "xPos": 0.0,
+        "yPos": -1.8991825613078994,
+        "zPos": 0.063351498637602421,
+        "scale": 0.21321525885558582,
+        "kColor": "#FFFF0000"
+      },
+      {
+        "TimelineLoc": 77,
+        "xPos": 0.0,
+        "yPos": 1.9972752043596764,
+        "zPos": 0.063351498637602421,
+        "scale": 0.21321525885558582,
+        "kColor": "#FFFF0000"
+      }
+    ]
+  }
+]

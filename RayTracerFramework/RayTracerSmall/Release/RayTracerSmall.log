@@ -1,0 +1,59 @@
+﻿  main.cpp
+e:\work\low level\raytracerframework\raytracersmall\raytracer.h(51): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(90): note: see previous definition of 'INFINITY'
+  RayTracer.cpp
+e:\work\low level\raytracerframework\raytracersmall\raytracer.h(51): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(90): note: see previous definition of 'INFINITY'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(34): warning C4018: '<': signed/unsigned mismatch
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(74): warning C4018: '<': signed/unsigned mismatch
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(94): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(101): warning C4305: 'argument': truncation from 'double' to 'const float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(110): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(124): warning C4018: '<': signed/unsigned mismatch
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(130): warning C4018: '<': signed/unsigned mismatch
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(197): warning C4018: '<': signed/unsigned mismatch
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(203): warning C4018: '<': signed/unsigned mismatch
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(192): warning C4101: 'pixel': unreferenced local variable
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(231): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(232): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(252): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(253): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(254): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(255): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(270): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(271): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(272): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(273): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(278): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(279): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(280): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(281): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(285): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(286): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(287): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(288): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(292): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(293): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(294): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(295): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(310): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(311): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(312): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(313): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(314): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(316): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(334): warning C4018: '<': signed/unsigned mismatch
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(336): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(339): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(348): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(350): warning C4129: '|': unrecognized character escape sequence
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(431): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\work\low level\raytracerframework\raytracersmall\raytracer.cpp(435): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 1565 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RayTracerSmall.vcxproj -> E:\Work\Low Level\RayTracerFramework\Release\RayTracerSmall.exe

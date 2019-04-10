@@ -1,0 +1,25 @@
+[
+  {
+    "minFrame": 1,
+    "maxFrame": 100,
+    "defaultCol": "#FF008000",
+    "keyframes": [
+      {
+        "TimelineLoc": 29,
+        "xPos": 0.48682644909060097,
+        "yPos": 0.0,
+        "zPos": 0.0,
+        "scale": 1.0,
+        "kColor": "#FF008000"
+      },
+      {
+        "TimelineLoc": 75,
+        "xPos": 0.48682644909060097,
+        "yPos": 0.0,
+        "zPos": 0.0,
+        "scale": 3.5361035422343337,
+        "kColor": "#FF008000"
+      }
+    ]
+  }
+]
